@@ -1,11 +1,16 @@
 {
-  "totalBackfilled": 1,
-  "latestTimestamp": "2018-01-10T10:40:42.000Z",
+  "totalBackfilled": 2,
+  "latestTimestamp": "2018-09-14T16:23:23.000Z",
   "recentEntries": [
     {
       "index": 1,
       "date": "2018-01-10T10:40:42.000Z",
       "message": "history(backfill): record legacy milestone contributions [2018-01-10] (#1/149)"
+    },
+    {
+      "index": 2,
+      "date": "2018-09-14T16:23:23.000Z",
+      "message": "chore(archive): sync historical activity metrics [2018-09-14] (#2/149)"
     }
   ]
 }
