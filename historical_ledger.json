@@ -1,6 +1,6 @@
 {
-  "totalBackfilled": 4,
-  "latestTimestamp": "2020-01-07T19:07:59.000Z",
+  "totalBackfilled": 5,
+  "latestTimestamp": "2020-05-08T09:43:24.000Z",
   "recentEntries": [
     {
       "index": 1,
@@ -21,6 +21,11 @@
       "index": 4,
       "date": "2020-01-07T19:07:59.000Z",
       "message": "refactor(graph): align historical timeline pulse [2020-01-07] (#4/149)"
+    },
+    {
+      "index": 5,
+      "date": "2020-05-08T09:43:24.000Z",
+      "message": "feat(archive): index legacy repository state [2020-05-08] (#5/149)"
     }
   ]
 }
