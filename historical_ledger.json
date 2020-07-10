@@ -1,6 +1,6 @@
 {
-  "totalBackfilled": 6,
-  "latestTimestamp": "2020-06-20T10:00:12.000Z",
+  "totalBackfilled": 7,
+  "latestTimestamp": "2020-07-10T12:56:00.000Z",
   "recentEntries": [
     {
       "index": 1,
@@ -31,6 +31,11 @@
       "index": 6,
       "date": "2020-06-20T10:00:12.000Z",
       "message": "chore(history): append historical timeline record [2020-06-20] (#6/149)"
+    },
+    {
+      "index": 7,
+      "date": "2020-07-10T12:56:00.000Z",
+      "message": "history(backfill): record legacy milestone contributions [2020-07-10] (#7/149)"
     }
   ]
 }
