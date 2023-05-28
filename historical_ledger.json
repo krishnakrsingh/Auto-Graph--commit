@@ -1,6 +1,6 @@
 {
-  "totalBackfilled": 7,
-  "latestTimestamp": "2020-07-10T12:56:00.000Z",
+  "totalBackfilled": 8,
+  "latestTimestamp": "2023-05-28T17:16:08.000Z",
   "recentEntries": [
     {
       "index": 1,
@@ -36,6 +36,11 @@
       "index": 7,
       "date": "2020-07-10T12:56:00.000Z",
       "message": "history(backfill): record legacy milestone contributions [2020-07-10] (#7/149)"
+    },
+    {
+      "index": 8,
+      "date": "2023-05-28T17:16:08.000Z",
+      "message": "chore(archive): sync historical activity metrics [2023-05-28] (#8/149)"
     }
   ]
 }
