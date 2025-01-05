@@ -1,12 +1,7 @@
 {
-  "totalBackfilled": 24,
-  "latestTimestamp": "2025-01-05T14:13:00.000Z",
+  "totalBackfilled": 25,
+  "latestTimestamp": "2025-01-05T21:06:26.000Z",
   "recentEntries": [
-    {
-      "index": 10,
-      "date": "2024-08-07T19:46:21.000Z",
-      "message": "refactor(graph): align historical timeline pulse [2024-08-07] (#10/149)"
-    },
     {
       "index": 11,
       "date": "2024-08-10T13:38:00.000Z",
@@ -76,6 +71,11 @@
       "index": 24,
       "date": "2025-01-05T14:13:00.000Z",
       "message": "chore(history): append historical timeline record [2025-01-05] (#24/149)"
+    },
+    {
+      "index": 25,
+      "date": "2025-01-05T21:06:26.000Z",
+      "message": "history(backfill): record legacy milestone contributions [2025-01-05] (#25/149)"
     }
   ]
 }
