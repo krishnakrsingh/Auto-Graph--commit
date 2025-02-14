@@ -1,12 +1,7 @@
 {
-  "totalBackfilled": 37,
-  "latestTimestamp": "2025-01-25T19:13:46.000Z",
+  "totalBackfilled": 38,
+  "latestTimestamp": "2025-02-14T10:27:26.000Z",
   "recentEntries": [
-    {
-      "index": 23,
-      "date": "2025-01-02T10:20:20.000Z",
-      "message": "feat(archive): index legacy repository state [2025-01-02] (#23/149)"
-    },
     {
       "index": 24,
       "date": "2025-01-05T14:13:00.000Z",
@@ -76,6 +71,11 @@
       "index": 37,
       "date": "2025-01-25T19:13:46.000Z",
       "message": "history(backfill): record legacy milestone contributions [2025-01-25] (#37/149)"
+    },
+    {
+      "index": 38,
+      "date": "2025-02-14T10:27:26.000Z",
+      "message": "chore(archive): sync historical activity metrics [2025-02-14] (#38/149)"
     }
   ]
 }
