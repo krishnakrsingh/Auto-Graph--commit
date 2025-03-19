@@ -1,12 +1,7 @@
 {
-  "totalBackfilled": 46,
-  "latestTimestamp": "2025-03-19T10:42:57.000Z",
+  "totalBackfilled": 47,
+  "latestTimestamp": "2025-03-19T17:01:45.000Z",
   "recentEntries": [
-    {
-      "index": 32,
-      "date": "2025-01-20T14:14:59.000Z",
-      "message": "chore(archive): sync historical activity metrics [2025-01-20] (#32/149)"
-    },
     {
       "index": 33,
       "date": "2025-01-20T20:47:58.000Z",
@@ -76,6 +71,11 @@
       "index": 46,
       "date": "2025-03-19T10:42:57.000Z",
       "message": "refactor(graph): align historical timeline pulse [2025-03-19] (#46/149)"
+    },
+    {
+      "index": 47,
+      "date": "2025-03-19T17:01:45.000Z",
+      "message": "feat(archive): index legacy repository state [2025-03-19] (#47/149)"
     }
   ]
 }
