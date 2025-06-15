@@ -1,12 +1,7 @@
 {
-  "totalBackfilled": 63,
-  "latestTimestamp": "2025-06-07T21:23:24.000Z",
+  "totalBackfilled": 64,
+  "latestTimestamp": "2025-06-15T09:29:47.000Z",
   "recentEntries": [
-    {
-      "index": 49,
-      "date": "2025-03-22T20:53:07.000Z",
-      "message": "history(backfill): record legacy milestone contributions [2025-03-22] (#49/149)"
-    },
     {
       "index": 50,
       "date": "2025-03-22T21:02:17.000Z",
@@ -76,6 +71,11 @@
       "index": 63,
       "date": "2025-06-07T21:23:24.000Z",
       "message": "docs(log): preserve chronological contribution telemetry [2025-06-07] (#63/149)"
+    },
+    {
+      "index": 64,
+      "date": "2025-06-15T09:29:47.000Z",
+      "message": "refactor(graph): align historical timeline pulse [2025-06-15] (#64/149)"
     }
   ]
 }
